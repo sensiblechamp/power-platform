@@ -31,6 +31,7 @@ An appropriate color and icon are used depending on the type of the message. The
 
 > [!NOTE]
 > The character limit for **Notify** function is 500 characters.
+> Some special characters such as '&' are permitted but not supported in the displayed Message text.
 
 | NotificationType Argument                  | Description                            |
 | ------------------------------------------ | -------------------------------------- |
